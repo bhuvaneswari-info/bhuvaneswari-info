@@ -81,6 +81,7 @@ I am eager to learn, practice, and contribute to real-world cyber security and s
 
 - 📧 Email: bhuvaneswari.infosec@gmail.com
 - 🔗 GitHub: https://github.com/bhuvaneswari-info
+- 🔗 Linkedin: https://www.linkedin.com/in/bhuvaneswari-n-523603294/
 
 ---
 
