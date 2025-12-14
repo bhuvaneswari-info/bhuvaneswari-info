@@ -4,6 +4,11 @@
 🔍 Cyber Security & Forensics Enthusiast  
 🛡️ Aspiring SOC Analyst | Threat Intelligence | Incident Response  
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvaneswari-info&show_icons=true)
+
+
 ---
 
 ## 👩‍💻 About Me
@@ -51,16 +56,25 @@ I am eager to learn, practice, and contribute to real-world cyber security and s
 - Incident identification and reporting
 - Digital & cyber forensics fundamentals
 
-### Tools & Technologies
+## 🧰 Tools & Technologies
+
+### Network & Reconnaissance
 - Nmap
 - Wireshark
+
+### Web & API Security
 - Burp Suite
-- Metasploit Framework
 - OWASP ZAP
+- Postman
+
+### Exploitation & Testing
+- Metasploit Framework
+
+### Digital Forensics
 - Autopsy
 - FTK Imager
 - Recuva
-- Postman
+
 
 ### Operating Systems
 - Windows
