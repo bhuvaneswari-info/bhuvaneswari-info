@@ -4,10 +4,7 @@
 🔍 Cyber Security & Forensics Enthusiast  
 🛡️ Aspiring SOC Analyst | Threat Intelligence | Incident Response  
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvaneswari-info&show_icons=true)
-
+![Profile Views](https://komarev.com/ghpvc/?username=bhuvaneswari-info&color=blue)
 
 ---
 
