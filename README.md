@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Bhuvaneswari N
+## 👋 Hi, I'm BHUVANESWARI N
 
 🎓 MSc Cyber Security (Pursuing)  
 🔍 Cyber Security & Forensics Enthusiast  
