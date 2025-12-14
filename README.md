@@ -4,8 +4,6 @@
 🔍 Cyber Security & Forensics Enthusiast  
 🛡️ Aspiring SOC Analyst | Threat Intelligence | Incident Response  
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhuvaneswari-info&color=blue)
-
 ---
 
 ## 👩‍💻 About Me
